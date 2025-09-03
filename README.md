@@ -1,1 +1,3 @@
 # semantic-search-research
+
+NotesGPT is an AI-driven application that enhances information retrieval by generating high-dimensional embedding vectors for each note and performing semantic search to return an array of relevant notes, each with a similarity score between 0 and 1. Built with Next.js, Firebase, and the Gemini 2.5 Flash API, the system also includes a dedicated chat tab where users can query their notes in natural language, and Gemini can cite the exact notes it used to generate responses, ensuring transparency and context. This combination of vector search and conversational AI makes NotesGPT a powerful tool for managing and interacting with personal knowledge
