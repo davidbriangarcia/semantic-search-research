@@ -15,6 +15,8 @@ Click the Generate Embeddings button and do you search
 Click the Visualize Notes button and refresh
 
 <img width="1184" height="591" alt="Captura de pantalla 2025-09-01 213624" src="https://github.com/user-attachments/assets/53daedd9-aadc-4eb2-b7bc-c42e134f10ec" />
+
+
 ## Demo Video
 
 https://www.tiktok.com/@davidbriangarcia/video/7545656316526628103
