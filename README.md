@@ -9,7 +9,13 @@ https://semantic-search-sigma.vercel.app/
 Create an account in the link if you dont have one. 
 Add notes in https://notes-two-vert.vercel.app/ with the same account
 
-Click the Generate Embeddings button and do you search
+
+## Semantic search
+In the first tab you can do a search for example of shopping and all note related to buys will be showed even if the word shoping is not directly used in a note
+
+## RAG Chat Tab
+You can also chat with your notes using a Retrieval Augmented Generation to comunicate in natural language with your notes (retriever) and a LLM (Generator)
+
 
 ## Visualize you data
 Click the Visualize Notes button and refresh
